@@ -1,4 +1,6 @@
-![Dashboard Preview](dashboard sc.png)
+![Dashboard Preview](<img width="1368" height="748" alt="Screenshot 2025-10-18 120135" src="https://github.com/user-attachments/assets/c6dc0767-54bf-4b6d-aa22-dc1638ad97e1" />
+)
+
 💼 HR Attrition & Engagement Dashboard
 
 ## 📘 Project Overview
