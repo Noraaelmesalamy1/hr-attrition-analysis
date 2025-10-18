@@ -1,4 +1,5 @@
-# 💼 HR Attrition & Engagement Dashboard
+![Dashboard Preview](dashboard sc.png)
+💼 HR Attrition & Engagement Dashboard
 
 ## 📘 Project Overview
 This project analyzes employee attrition and engagement using **SQL Server** for data preparation and **Power BI** for visualization.  
