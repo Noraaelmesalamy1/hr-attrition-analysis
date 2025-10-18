@@ -1,5 +1,6 @@
-![Dashboard Preview](<img width="1368" height="748" alt="Screenshot 2025-10-18 120135" src="https://github.com/user-attachments/assets/c6dc0767-54bf-4b6d-aa22-dc1638ad97e1" />
-)
+
+![Dashboard Preview](Screenshot%202025-10-18%20120135.png)
+https://github.com/Noraaelmesalamy1/hr-attrition-analysis/blob/main/Screenshot%202025-10-18%20120135.png
 
 💼 HR Attrition & Engagement Dashboard
 
